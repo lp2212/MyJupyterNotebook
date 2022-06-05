@@ -1,2 +1,3 @@
 # MyJupyterNotebook
-Bài tập tự học cá nhân
+Some projects using python
+
